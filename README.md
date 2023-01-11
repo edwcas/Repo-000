@@ -1,2 +1,3 @@
-#curso de git
+# git
+
 hola este es un arch de texto
